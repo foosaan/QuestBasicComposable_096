@@ -73,6 +73,10 @@ fun BasicCompos(modifier: Modifier = Modifier){
             color = Color.Red,
         )
 
+        Text(
+            text = "20220140096"
+        )
+
         Image(painter = painterResource(id= R.drawable.fsn),
             contentDescription = null
 

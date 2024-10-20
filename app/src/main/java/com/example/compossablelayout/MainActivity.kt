@@ -67,7 +67,8 @@ fun BasicCompos(modifier: Modifier = Modifier){
         )
 
         Text(
-            text = "Fauzan ALfikri"
+            text = "Fauzan ALfikri",
+            fontSize = 16.sp,
 
         )
 

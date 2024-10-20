@@ -58,11 +58,17 @@ fun BasicCompos(modifier: Modifier = Modifier){
                 fontSize = 25.sp,
                 fontWeight = FontWeight.Bold,
                 color = Color.Green,
-            ))
+            )
+        )
         Text(
             text = "0",
             fontWeight = FontWeight.Bold,
             fontSize = 25.sp
+        )
+
+        Image(
+            painter = painterResource(id = R.drawable.icon),
+            contentDescription = null,
         )
 
         Text(

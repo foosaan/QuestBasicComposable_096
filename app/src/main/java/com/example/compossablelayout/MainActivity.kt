@@ -70,7 +70,7 @@ fun BasicCompos(modifier: Modifier = Modifier){
             text = "Fauzan ALfikri",
             fontSize = 16.sp,
             fontWeight = FontWeight.Bold,
-
+            color = Color.Red,
         )
 
         Image(painter = painterResource(id= R.drawable.fsn),

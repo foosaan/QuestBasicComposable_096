@@ -69,6 +69,7 @@ fun BasicCompos(modifier: Modifier = Modifier){
         Image(
             painter = painterResource(id = R.drawable.icon),
             contentDescription = null,
+            modifier = Modifier
         )
 
         Text(

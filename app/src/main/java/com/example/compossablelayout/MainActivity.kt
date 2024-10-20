@@ -64,6 +64,10 @@ fun BasicCompos(modifier: Modifier = Modifier){
             text = "Name",
             fontSize = 13.sp,
             fontWeight = FontWeight.Bold,
+        )
+
+        Text(
+            text = "Fauzan ALfikri"
 
         )
 

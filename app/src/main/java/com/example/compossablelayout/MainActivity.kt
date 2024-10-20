@@ -74,7 +74,9 @@ fun BasicCompos(modifier: Modifier = Modifier){
         )
 
         Text(
-            text = "20220140096"
+            text = "20220140096",
+            fontSize = 16.sp,
+
         )
 
         Image(painter = painterResource(id= R.drawable.fsn),

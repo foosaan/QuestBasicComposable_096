@@ -60,6 +60,13 @@ fun BasicCompos(modifier: Modifier = Modifier){
             fontSize = 25.sp
         )
 
+        Text(
+            text = "Name",
+            fontSize = 13.sp,
+            fontWeight = FontWeight.Bold,
+
+        )
+
         Image(painter = painterResource(id= R.drawable.fsn),
             contentDescription = null
 

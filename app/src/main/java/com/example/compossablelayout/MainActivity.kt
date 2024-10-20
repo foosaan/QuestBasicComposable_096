@@ -60,7 +60,7 @@ fun BasicCompos(modifier: Modifier = Modifier){
             fontSize = 25.sp
         )
 
-        Image(painter = painterResource(id= R.drawable.icon),
+        Image(painter = painterResource(id= R.drawable.fsn),
             contentDescription = null
 
             )
